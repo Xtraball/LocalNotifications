@@ -25,6 +25,13 @@
     "android",
     "windows"
   ],
+  "cordova": {
+    "id": "cordova-plugin-localnotification",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
   "engines": [
     {
       "name": "cordova",
