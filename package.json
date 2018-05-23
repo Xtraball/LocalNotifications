@@ -1,8 +1,8 @@
 {
-  "name": "de.appplant.cordova.plugin.local-notification",
-  "cordova_name": "Cordova LocalNotification Plugin",
+  "name": "LocalNotification",
+  "cordova_name": "LocalNotification",
   "version": "0.8.4",
-  "description": "Schedules and queries for local notifications",
+  "description": "Cordova LocalNotification",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,7 +26,7 @@
     "windows"
   ],
   "cordova": {
-    "id": "cordova-plugin-localnotification",
+    "id": "LocalNotification",
     "platforms": [
       "android",
       "ios"
